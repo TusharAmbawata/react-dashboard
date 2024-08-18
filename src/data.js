@@ -1,5 +1,3 @@
-// src/data.js
-
 export const dashboardData = {
     dashboard: {
       name: "Executive Dashboard",
