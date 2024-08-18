@@ -1,4 +1,3 @@
-# react-dashboard
 # React Dashboard Application
 
 This is a dynamic dashboard application built using React. The application allows users to manage categories and widgets, with features such as adding, removing, and searching for widgets, as well as saving the dashboard state in `localStorage`.
@@ -31,6 +30,6 @@ This is a dynamic dashboard application built using React. The application allow
     ```bash
     npm install
 
-5. Running the Application
+4. Running the Application
     ```bash
     npm run dev
