@@ -22,14 +22,14 @@ This is a dynamic dashboard application built using React. The application allow
    ```bash
    git clone https://github.com/TusharAmbawata/react-dashboard.git
 
-2. Navigate to the project directory: 
+2. **Navigate to the project directory:** 
     ```bash
     cd react-dashboard(or your directory name)
 
-3. Install the dependencies:
+3. **Install the dependencies:**
     ```bash
     npm install
 
-4. Running the Application
+4. **Running the Application:**
     ```bash
     npm run dev
